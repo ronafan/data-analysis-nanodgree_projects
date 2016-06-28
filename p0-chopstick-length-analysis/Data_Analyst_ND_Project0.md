@@ -1,4 +1,4 @@
-#Project 0-testing demo: The relationship between Chopsticks length and its food-pinching performance
+#The relationship between Chopsticks length and its food-pinching performance
 
 ### Background: An investigation for determining the optimum length of chopsticks.
 [Link to Abstract and Paper](http://www.ncbi.nlm.nih.gov/pubmed/15676839)  
