@@ -431,7 +431,7 @@ dataFrame
 
 
 
-### 4.1 the mean value for the number of peanuts picked and placed in the cup: 
+### the mean value for the number of peanuts picked and placed in the cup: 
 
 An investigation for determining the optimum length of chopsticks.
 
