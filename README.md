@@ -1,4 +1,3 @@
-# data-analysis-nanodgree_projects
 #Data Analyst Nanodegree Portfolio
 
 <img src="https://pbs.twimg.com/media/B4LemTlIMAAy8AM.jpg">
