@@ -203,7 +203,7 @@ print u_value, p_value
 
 Based on the result of the Mann-Whitney test, the p_value < 0.05. As a result, the null hypothesis H<sub>0</sub>: η<sub>1</sub> = η<sub>2</sub> is rejected. The median time spent on naming color of text of the first population(congruent) *does not* equal the median of the second population (incongruent), and the difference is statistically significant. 
 
-*Personally, the result matches my expectation because my result on incongruent condition was significantly different than the congruent condition. *
+Personally, the result matches my expectation because my result on incongruent condition was significantly different than the congruent condition.
 
 6.(Optional): What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
 
