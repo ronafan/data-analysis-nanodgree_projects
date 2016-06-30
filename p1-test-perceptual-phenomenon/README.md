@@ -12,17 +12,17 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 1.What is our independent variable? What is our dependent variable?
 
-** Independent Variable **: The time spent on reading out the color of the word.
+**Independent Variable**: The time spent on reading out the color of the word.
 
-** Dependent Variable **: The condition of word (congruent/incongruent)
+**Dependent Variable**: The condition of word (congruent/incongruent)
 
 2.What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
 
-** H<sub>0</sub>: η<sub>1</sub> = η<sub>2</sub> : ** The median time spent on naming color of text of the first population(congruent) equals the median of the second population (incongruent).
+**H<sub>0</sub>: η<sub>1</sub> = η<sub>2</sub>:** The median time spent on naming color of text of the first population(congruent) equals the median of the second population (incongruent).
 
-** H<sub>1</sub>: η<sub>1</sub> ≠ η<sub>2</sub>: ** The median time spent on naming color of text of the first population(congruent) *does not* equal the median of the second population (incongruent).
+**H<sub>1</sub>: η<sub>1</sub> ≠ η<sub>2</sub>:** The median time spent on naming color of text of the first population(congruent) *does not* equal the median of the second population (incongruent).
 
-** statistical test:**
+**statistical test:**
 
  [Normal probability plot (Congruent)](https://github.com/ronafan/data-analysis-nanodgree_projects/blob/master/p1-test-perceptual-phenomenon/nom_con.png) 
 
@@ -54,13 +54,13 @@ stdInc=dataFrame['Incongruent'].std()
 # or we can use x_axisCon.describe()/x_axisInc.describe() to generate a summary of statistics
 ```
 
-** CONGRUENT CONDITION **
+**CONGRUENT CONDITION**
 
 mean: 14.05
 
 std dev: 3.56
 
-** INCONGRUENT CONDITION **
+**INCONGRUENT CONDITION**
 
 mean: 22.02
 
@@ -123,7 +123,7 @@ print (stats.normaltest(x_axisCon))
     NormaltestResult(statistic=0.85207026495984284, pvalue=0.653093396926963)
 
 
-** CONGRUENT **
+**CONGRUENT**
 
 skewness = 0.39
 
@@ -174,7 +174,7 @@ print (stats.normaltest(x_axisInc))
     NormaltestResult(statistic=13.256131677149471, pvalue=0.0013227189654814804)
 
 
-** INCONGRUENT **
+**INCONGRUENT**
 
 skewness = 1.45
 
@@ -184,7 +184,7 @@ p-value < 0.05,
 
 The incongruent distrubution is not normal. 
 
-** CONCLUSION **
+**CONCLUSION**
 
 In Sum, the data for both conditions is normally distributed and skew to the right. The congruent distribution is slighly skewed to the right, and the incongruent distribution is heavily skewed to the right.
 
@@ -207,7 +207,7 @@ Based on the result of the Mann-Whitney test, the p_value < 0.05. As a result, t
 
 6.(Optional): What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
 
-**Possible Reason underlying the effect: **The function of perception is different than language processing procedure. The word processing (congurent) may be significantly faster than color processing (incongruent). 
+**Possible Reason underlying the effect:**The function of perception is different than language processing procedure. The word processing (congurent) may be significantly faster than color processing (incongruent). 
 
-**Futher study: ** Futhur studies can discover whether the difference in the language and color processing causes the lag in the brain's ability to recognize the color of the text. 
+**Futher study:** Futhur studies can discover whether the difference in the language and color processing causes the lag in the brain's ability to recognize the color of the text. 
 
