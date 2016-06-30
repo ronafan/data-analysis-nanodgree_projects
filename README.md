@@ -4,8 +4,8 @@
 
 This repository contains my work for Udacity's Data Analyst Nanodegree program, July 2016 cohort.
 ##Projects:
-* *Project 0:* [The Relationship Between Chopsticks Length and Food-Pinching Performance] (https://github.com/ronafan/data-analysis-nanodgree_projects/tree/master/p0-chopstick-length-analysis) 2016/06/28
-* *Project 1:* [Statistics: The Perceptual Phenomenon] ((https://github.com/ronafan/data-analysis-nanodgree_projects/tree/master/p1-test-perceptual-phenomenon) 2016/6/29
+* *Project 0:* [The Relationship Between Chopsticks Length and Food-Pinching Performance](https://github.com/ronafan/data-analysis-nanodgree_projects/tree/master/p0-chopstick-length-analysis) 2016/06/28
+* *Project 1:* [Statistics: The Perceptual Phenomenon](https://github.com/ronafan/data-analysis-nanodgree_projects/tree/master/p1-test-perceptual-phenomenon) 2016/06/29
 * *Project 2:*
 * *Project 3:*
 * *Project 4:*
