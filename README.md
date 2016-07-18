@@ -9,7 +9,8 @@ This repository contains my work for Udacity's Data Analyst Nanodegree program, 
 * *Project 2:* 
 * *[DAND-L1: Data Analysis Process](https://github.com/ronafan/data-analysis-nanodgree_projects/blob/master/p2-investigate-a-dataset/Intro%20to%20Data%20Analysis/L1_DA_process.ipynb) 
 * *[DAND-L2: NumPy for 1D Data Process](https://github.com/ronafan/data-analysis-nanodgree_projects/blob/master/p2-investigate-a-dataset/Intro%20to%20Data%20Analysis/L2_1D_data_analysis/L2-numpy_pandas_1d%2Bdata.ipynb) 
-* *[Investigate a Dataset: Titanic Data] (2016/7/18)
+* *[DAND-L3: NumPy for 2D Data Process](https://github.com/ronafan/data-analysis-nanodgree_projects/blob/master/p2-investigate-a-dataset/Intro%20to%20Data%20Analysis/L2_1D_data_analysis/L3-numpy_pandas_2d%2Bdata.ipynb) 
+* *[Investigate a Dataset: Titanic Data] () (In Progress)
 * *Project 3:* (*Yet Started* )
 * *Project 4:* (*Yet Started* )
 * *Project 5:* (*Yet Started* )
