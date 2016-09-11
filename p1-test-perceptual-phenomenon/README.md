@@ -18,9 +18,9 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 2.What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
 
-**μ<sub>0</sub>:** Time to name colors is the same for congruent and incongruent tasks
+**H<sub>0</sub>:μ<sub>C</sub> =μ<sub>I</sub> :** Time to name colors is the same for congruent and incongruent tasks
 
-**μ<sub>A</sub>:** Time to name colors is *not* the same for congruent and incongruent tasks
+**H<sub>A</sub>:μ<sub>C</sub> /=μ<sub>I</sub>:** Time to name colors is *not* the same for congruent and incongruent tasks
 
 ** statistical test:**
 
