@@ -18,9 +18,9 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 2.What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
 
-**H<sub>0</sub>:** Time to name colors is the same for congruent and incongruent tasks
+**μ<sub>0</sub>:** Time to name colors is the same for congruent and incongruent tasks
 
-**H<sub>A</sub>:** Time to name colors is *not* the same for congruent and incongruent tasks
+**μ<sub>A</sub>:** Time to name colors is *not* the same for congruent and incongruent tasks
 
 ** statistical test:**
 
@@ -28,7 +28,7 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 ![Normal probability plot (Incongruent)](pp-incongruent.png)
 
-The data is roughly normally distributed, with a slight left tail. I will use a two-tailed dependent t-test because we are comparing two dependent samples of data.
+The data is roughly normally distributed, with a slight left tail. I will use a two-tailed dependent t-test because we are comparing two dependent samples of data. Moreover, the sampel size is less than 30 and the std dev for population is unknown. 
 
 3.Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
 
